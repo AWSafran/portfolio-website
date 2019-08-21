@@ -74,6 +74,12 @@ input, select, textarea {
 
 /* Basic */
 
+
+
+	.profile-pic{
+		border-radius: 50%;
+	}
+
 	@-ms-viewport {
 		width: device-width;
 	}
